@@ -1,0 +1,3 @@
+Remove unused files
+
+setup[1-2].bash were created for explanation in the book but they are not required for the system.
